@@ -1,3 +1,3 @@
-for admin panel
+#for admin panel
 username : dagim
 password : dagis era
