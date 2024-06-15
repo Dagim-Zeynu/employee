@@ -10,13 +10,9 @@ Employee List is a Django web application that allows an admin to manage a list 
 
 ## Requirements
 
-- Python 3.x
-- Django 3.x or higher
+- Python 3.12.2
+- Django 5 or higher
 
 ## Installation
 
-1. Clone the repository:
-
-```sh
-git clone https://github.com/yourusername/employee-list.git
-cd employee-list
+1. Clone the repository
