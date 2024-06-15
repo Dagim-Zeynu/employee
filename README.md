@@ -18,7 +18,7 @@ Employee List is a Django web application that allows an admin to manage a list 
 1. **Clone the repository**:
 
     ```sh
-    git clone https://github.com/yourusername/employee-list.git
+        https://github.com/Dagim-Zeynu/employee.git
     cd employee-list
     ```
 
