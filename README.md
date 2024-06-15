@@ -1,3 +1,1 @@
-#for admin panel
-username : dagim
-password : dagis era
+## how to use it
